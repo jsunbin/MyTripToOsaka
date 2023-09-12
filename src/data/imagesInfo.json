@@ -455,6 +455,14 @@
       },
       {
         "name": "2023083133",
+        "path": "https://github.com/jsunbin/MyTripToOsaka/assets/96880673/77a83990-fe52-4ed5-b2d0-cd040c16a84c",
+        "description": "🥟 551 호라이 만두",
+        "place": "오사카 호텔",
+        "type": "food",
+        "day": "Day2"
+      },
+      {
+        "name": "2023083134",
         "path": "https://github.com/jsunbin/MyTripToOsaka/assets/96880673/dd31c31d-f324-416c-8ba2-5d5feab20b38",
         "description": "잘자라",
         "place": "오사카 호텔",
@@ -464,7 +472,240 @@
     ]
   },
   "day3": {
-    "images": []
+    "images": [
+      {
+        "name": "2023090101",
+        "path": "https://github.com/jsunbin/MyTripToOsaka/assets/96880673/b03b38ff-df52-49b7-bc49-55f1beccbc28",
+        "description": "3일째 아침도 조식으로 시작",
+        "place": "오사카 호텔",
+        "type": "food",
+        "day": "Day3"
+      },
+      {
+        "name": "2023090102",
+        "path": "https://github.com/jsunbin/MyTripToOsaka/assets/96880673/2f8e074c-c70f-4515-b416-d0609d87154f",
+        "description": "오늘은 유니버셜 스튜디오!",
+        "place": "유니버셜 스튜디오 재팬",
+        "type": "hoon",
+        "day": "Day3"
+      },
+      {
+        "name": "2023090103",
+        "path": "https://github.com/jsunbin/MyTripToOsaka/assets/96880673/fd8288fe-20f6-40f2-8280-f83735092667",
+        "description": "🌎",
+        "place": "유니버셜 스튜디오 재팬",
+        "type": "etc",
+        "day": "Day3"
+      },
+      {
+        "name": "2023090104",
+        "path": "https://github.com/jsunbin/MyTripToOsaka/assets/96880673/15583422-7d45-47dd-a880-e548e9ab84ab",
+        "description": "출발~",
+        "place": "유니버셜 스튜디오 재팬",
+        "type": "family",
+        "day": "Day3"
+      },
+      {
+        "name": "2023090105",
+        "path": "https://github.com/jsunbin/MyTripToOsaka/assets/96880673/fff4e42d-7f98-4a55-8f15-efb343b46b7b",
+        "description": "여기는요",
+        "place": "유니버셜 스튜디오 재팬",
+        "type": "etc",
+        "day": "Day3"
+      },
+      {
+        "name": "2023090106",
+        "path": "https://github.com/jsunbin/MyTripToOsaka/assets/96880673/a2e9580b-ba3d-4e53-9368-740f8fdc57b0",
+        "description": "매일 눈이 쌓여 있는 곳인데요",
+        "place": "유니버셜 스튜디오 재팬",
+        "type": "",
+        "day": "Day3"
+      },
+      {
+        "name": "2023090107",
+        "path": "https://github.com/jsunbin/MyTripToOsaka/assets/96880673/9619369a-cd6d-4668-9c95-afaedcb67dd1",
+        "description": "호그와트 입니다 🏰",
+        "place": "유니버셜 스튜디오 재팬",
+        "type": "etc",
+        "day": "Day3"
+      },
+      {
+        "name": "2023090108",
+        "path": "https://github.com/jsunbin/MyTripToOsaka/assets/96880673/b5786bc5-606e-4497-b606-5c38686e77c5",
+        "description": "🚙 론이 몰고 왔던 차 앞에서",
+        "place": "유니버셜 스튜디오 재팬",
+        "type": "family",
+        "day": "Day3"
+      },
+      {
+        "name": "2023090109",
+        "path": "https://github.com/jsunbin/MyTripToOsaka/assets/96880673/07ac72e1-fb8b-4e45-9308-33ac5585226a",
+        "description": "🍺 버터맥주 사는 빈이",
+        "place": "유니버셜 스튜디오 재팬",
+        "type": "bin",
+        "day": "Day3"
+      },
+      {
+        "name": "2023090110",
+        "path": "https://github.com/jsunbin/MyTripToOsaka/assets/96880673/14647b48-24dd-4580-88df-7c469eb7b6c5",
+        "description": "크히히",
+        "place": "유니버셜 스튜디오 재팬",
+        "type": "hsy",
+        "day": "Day3"
+      },
+      {
+        "name": "2023090111",
+        "path": "https://github.com/jsunbin/MyTripToOsaka/assets/96880673/775f1633-4088-46d6-9af0-9b3a345e3b41",
+        "description": "🪄 사고 싶다..지팡이",
+        "place": "유니버셜 스튜디오 재팬",
+        "type": "",
+        "day": "Day3"
+      },
+      {
+        "name": "2023090112",
+        "path": "https://github.com/jsunbin/MyTripToOsaka/assets/96880673/07cfe5c0-d012-4cd2-8c32-e3fe1695518c",
+        "description": "🪙 000100",
+        "place": "유니버셜 스튜디오 재팬",
+        "type": "etc",
+        "day": "Day3"
+      },
+      {
+        "name": "2023090113",
+        "path": "https://github.com/jsunbin/MyTripToOsaka/assets/96880673/197817c9-e84c-4a2f-b099-59c5cfa6d7f0",
+        "description": "마리오 월드 입장!",
+        "place": "유니버셜 스튜디오 재팬",
+        "type": "etc",
+        "day": "Day3"
+      },
+      {
+        "name": "2023090114",
+        "path": "https://github.com/jsunbin/MyTripToOsaka/assets/96880673/485721f0-e387-492c-867e-d3d76f685ad0",
+        "description": "🍄 🍄 🍄",
+        "place": "유니버셜 스튜디오 재팬",
+        "type": "etc",
+        "day": "Day3"
+      },
+      {
+        "name": "2023090115",
+        "path": "https://github.com/jsunbin/MyTripToOsaka/assets/96880673/92db5879-7e8b-4414-bf2b-84ca5ed63787",
+        "description": "기념품 샵에서 계산하는 할머니",
+        "place": "유니버셜 스튜디오 재팬",
+        "type": "kgr",
+        "day": "Day3"
+      },
+      {
+        "name": "2023090116",
+        "path": "https://github.com/jsunbin/MyTripToOsaka/assets/96880673/f54f9793-af76-47d2-bdcd-c3d75d4931f4",
+        "description": "😄 😄 😄",
+        "place": "유니버셜 스튜디오 재팬",
+        "type": "family",
+        "day": "Day3"
+      },
+      {
+        "name": "2023090117",
+        "path": "https://github.com/jsunbin/MyTripToOsaka/assets/96880673/1f910b6b-c941-4d6c-a53b-41162448317e",
+        "description": "마리오 카페에서 찰칵 📸",
+        "place": "유니버셜 스튜디오 재팬",
+        "type": "food",
+        "day": "Day3"
+      },
+      {
+        "name": "2023090118",
+        "path": "https://github.com/jsunbin/MyTripToOsaka/assets/96880673/e4b28b51-f1c0-41c6-8a09-1550f60046e5",
+        "description": "🍔 마리오 버거",
+        "place": "유니버셜 스튜디오 재팬",
+        "type": "etc",
+        "day": "Day3"
+      },
+      {
+        "name": "2023090119",
+        "path": "https://github.com/jsunbin/MyTripToOsaka/assets/96880673/026d8f9c-a2ed-420a-a7ec-7136cf44a44b",
+        "description": "🌊 이거 다 젖는다는데요..?",
+        "place": "유니버셜 스튜디오 재팬",
+        "type": "etc",
+        "day": "Day3"
+      },
+      {
+        "name": "2023090120",
+        "path": "https://github.com/jsunbin/MyTripToOsaka/assets/96880673/4e6b7297-6604-49c5-ab46-73a8cfa060f4",
+        "description": "엄마가 보고 싶어했던 워터월드",
+        "place": "유니버셜 스튜디오 재팬",
+        "type": "etc",
+        "day": "Day3"
+      },
+      {
+        "name": "2023090121",
+        "path": "https://github.com/jsunbin/MyTripToOsaka/assets/96880673/e81dcc01-331c-4e75-9b47-13eb5547cc3a",
+        "description": "해그리드 집 앞에서 ✌️",
+        "place": "유니버셜 스튜디오 재팬",
+        "type": "hye",
+        "day": "Day3"
+      },
+      {
+        "name": "2023090122",
+        "path": "https://github.com/jsunbin/MyTripToOsaka/assets/96880673/ad1713a6-f1b1-4824-9168-1b58db98f923",
+        "description": "벅빅 타고나서 ✌️",
+        "place": "유니버셜 스튜디오 재팬",
+        "type": "family",
+        "day": "Day3"
+      },
+      {
+        "name": "2023090123",
+        "path": "https://github.com/jsunbin/MyTripToOsaka/assets/96880673/bf11ccae-8e51-4300-b21c-fa8c46cc6d1b",
+        "description": "엄마는?",
+        "place": "유니버셜 스튜디오 재팬",
+        "type": "hsy",
+        "day": "Day3"
+      },
+      {
+        "name": "2023090124",
+        "path": "https://github.com/jsunbin/MyTripToOsaka/assets/96880673/f827d788-012b-402f-a23e-5a081ae94748",
+        "description": "아빠는?",
+        "place": "유니버셜 스튜디오 재팬",
+        "type": "hoon",
+        "day": "Day3"
+      },
+      {
+        "name": "2023090125",
+        "path": "https://github.com/jsunbin/MyTripToOsaka/assets/96880673/b1a5084e-9a0d-41e6-93cf-fed97377d317",
+        "description": "할머니, 할아버지는?",
+        "place": "유니버셜 스튜디오 재팬",
+        "type": "family",
+        "day": "Day3"
+      },
+      {
+        "name": "2023090126",
+        "path": "https://github.com/jsunbin/MyTripToOsaka/assets/96880673/5da9dbf8-5813-4ac8-8a4a-aa69e9e91fa9",
+        "description": "미니언즈 봤네?",
+        "place": "유니버셜 스튜디오 재팬",
+        "type": "etc",
+        "day": "Day3"
+      },
+      {
+        "name": "2023090127",
+        "path": "https://github.com/jsunbin/MyTripToOsaka/assets/96880673/6d160875-0a63-4add-9949-6c200957d8c5",
+        "description": "해리포터에서 산 거!",
+        "place": "오사카 호텔",
+        "type": "",
+        "day": "Day3"
+      },
+      {
+        "name": "2023090128",
+        "path": "https://github.com/jsunbin/MyTripToOsaka/assets/96880673/dafe1399-825a-473a-9ca5-ec44e96274b4",
+        "description": "마지막 밤은 오코노미야끼!",
+        "place": "오사카 호텔",
+        "type": "food",
+        "day": "Day3"
+      },
+      {
+        "name": "2023090129",
+        "path": "https://github.com/jsunbin/MyTripToOsaka/assets/96880673/f19da649-376b-41b8-b4b4-43cc42bd5828",
+        "description": "돈키호테 탈탈22",
+        "place": "오사카 호텔",
+        "type": "etc",
+        "day": "Day3"
+      }
+    ]
   },
   "day4": {
     "images": []
