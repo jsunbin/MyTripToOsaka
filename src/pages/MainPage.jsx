@@ -70,7 +70,7 @@ export default function MainPage() {
       <main>
         <h1 className="a11y-hidden">2023년 08월 30일 ~ 09월 02일 3박4일 오사카 가족 여행</h1>
         <Div>
-          <div>마지막 업데이트 날짜: 2023. 09. 09</div>
+          <div>마지막 업데이트 날짜: 2023. 09. 13</div>
         </Div>
 
         <ButtonDiv>
@@ -188,12 +188,12 @@ const H3 = styled.h3`
 `;
 
 const Div = styled.div`
-  font-size: 18px;
+  font-size: 16px;
   font-weight: bold;
   color: #2b5183;
   margin: 20px 0;
   div {
-    width: 320px;
+    width: 242px;
     margin: 0 auto;
   }
 `;
